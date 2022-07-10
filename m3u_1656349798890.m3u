@@ -37,3 +37,11 @@ http://39.134.65.162/PLTV/88888888/224/3221225513/1.m3u8
 http://117.148.179.157/PLTV/88888888/224/3221231772/index.m3u8
 #EXTINF:-1,TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,仪征新闻综合
+http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8
+#EXTINF:-1,仪征生活频道
+http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
+#EXTINF:-1,民视HD
+https://epg.pm/stream/aa89cf7c9c65b9fb36db6518566af889bdad78ecbfa3d5f60cebeb9f4d667a1b.m3u8
+#EXTINF:-1,东森新闻HD
+https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
